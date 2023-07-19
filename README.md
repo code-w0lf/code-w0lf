@@ -1,7 +1,12 @@
 <!-- ## Vuk -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨‍💻 &nbsp;About Me
 
+🕹 &nbsp;Proficient full stack developer.\
+💡 &nbsp;I like to explore new technologies and tinker with existing ones.\
+🌱 &nbsp;Learning something new everyday.\
+💬 &nbsp;Feel free to reach out to me on my <a href="https://linkedin.com/in/vukiii">linkedin</a> account.\
+🔥 &nbsp; "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,7 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🌟 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/codevuk">
